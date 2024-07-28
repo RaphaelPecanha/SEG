@@ -527,3 +527,12 @@ Information: 0 - Application is shutting down...
 Information: 0 - Application started. Press Ctrl+C to shut down.
 Information: 0 - Hosting environment: Production
 Information: 0 - Content root path: C:\Users\raphael.pecanha\Documents\Deploy
+Information: 0 - Application is shutting down...
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Production
+Information: 0 - Content root path: C:\Users\raphael.pecanha\Documents\Deploy
+Information: 0 - Application is shutting down...
+Information: 0 - Application started. Press Ctrl+C to shut down.
+Information: 0 - Hosting environment: Production
+Information: 0 - Content root path: C:\Users\raphael.pecanha\Documents\Deploy
+Warning: 3 - Failed to determine the https port for redirect.

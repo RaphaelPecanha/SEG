@@ -67,12 +67,6 @@ builder.Logging.AddProvider(new CustomLoggerProvider(new CustomLoggerProviderCon
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Configure HTTPS Redirection
-builder.Services.AddHttpsRedirection(options =>
-{
-    options.HttpsPort = 44342; // Porta HTTPS configurada
-});
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
