@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEG", "SEG\SEG.csproj", "{1578D962-529D-4821-A822-E204EAAB1862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1578D962-529D-4821-A822-E204EAAB1862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1578D962-529D-4821-A822-E204EAAB1862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1578D962-529D-4821-A822-E204EAAB1862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1578D962-529D-4821-A822-E204EAAB1862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3452B82-94C8-4DE3-A301-096644ACB4B9}
+	EndGlobalSection
+EndGlobal
